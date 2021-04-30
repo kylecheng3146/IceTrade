@@ -1,0 +1,11 @@
+首先在 Excel 中關閉 VBA 程式。
+
+註冊要更新的 iPush2005.oc
+
+利用 Windows 的檔案或資料夾搜尋功能，在系統碟裡尋找 iPushX.ocx 元件的 .exd 檔案 (即 IPUSHXLib.exd)，或是有相關ICE提供的API
+(同常是在C:\Documents and Settings\Administrator\Local Settings\Temp\Excel?.0底下，?表各人Office的版本，而administrator因登入使用者不同
+而有所不同)
+
+找到之後將其刪除。
+
+在 Excel 中再開啟 VBA 程式。

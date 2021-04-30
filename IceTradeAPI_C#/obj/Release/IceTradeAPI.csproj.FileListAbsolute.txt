@@ -1,0 +1,99 @@
+D:\chun_ming\work\API\fubon\IceTradeAPI\IceTradeAPI_C#\obj\Release\Interop.ICETRADEAPILib.dll
+D:\chun_ming\work\API\fubon\IceTradeAPI\IceTradeAPI_C#\obj\Release\AxInterop.ICETRADEAPILib.dll
+D:\chun_ming\work\API\fubon\IceTradeAPI\IceTradeAPI_C#\obj\Release\IceTradeAPI.csproj.ResolveComReference.cache
+D:\chun_ming\work\API\fubon\IceTradeAPI\IceTradeAPI_C#\bin\Release\IceTradeAPI.exe
+D:\chun_ming\work\API\fubon\IceTradeAPI\IceTradeAPI_C#\bin\Release\IceTradeAPI.pdb
+D:\chun_ming\work\API\fubon\IceTradeAPI\IceTradeAPI_C#\bin\Release\Interop.ICETRADEAPILib.dll
+D:\chun_ming\work\API\fubon\IceTradeAPI\IceTradeAPI_C#\bin\Release\AxInterop.ICETRADEAPILib.dll
+D:\chun_ming\work\API\fubon\IceTradeAPI\IceTradeAPI_C#\obj\Release\ResolveAssemblyReference.cache
+D:\chun_ming\work\API\fubon\IceTradeAPI\IceTradeAPI_C#\obj\Release\IceGlobalTradeAPI.Form1.resources
+D:\chun_ming\work\API\fubon\IceTradeAPI\IceTradeAPI_C#\obj\Release\IceTradeAPI.Properties.Resources.resources
+D:\chun_ming\work\API\fubon\IceTradeAPI\IceTradeAPI_C#\obj\Release\IceTradeAPI.csproj.GenerateResource.Cache
+D:\chun_ming\work\API\fubon\IceTradeAPI\IceTradeAPI_C#\obj\Release\IceTradeAPI.exe
+D:\chun_ming\work\API\fubon\IceTradeAPI\IceTradeAPI_C#\obj\Release\IceTradeAPI.pdb
+C:\Users\sway\Desktop\case 8257\IceTradeAPI_ENTRUST20141120\IceTradeAPI_ENTRUST20141120\IceTradeAPI_C#\obj\Release\Interop.ICETRADEAPILib.dll
+C:\Users\sway\Desktop\case 8257\IceTradeAPI_ENTRUST20141120\IceTradeAPI_ENTRUST20141120\IceTradeAPI_C#\obj\Release\AxInterop.ICETRADEAPILib.dll
+C:\Users\sway\Desktop\case 8257\IceTradeAPI_ENTRUST20141120\IceTradeAPI_ENTRUST20141120\IceTradeAPI_C#\obj\Release\IceTradeAPI.csproj.ResolveComReference.cache
+C:\Users\sway\Desktop\case 8257\IceTradeAPI_ENTRUST20141120\IceTradeAPI_ENTRUST20141120\IceTradeAPI_C#\obj\Release\IceTradeAPI.exe
+C:\Users\sway\Desktop\case 8257\IceTradeAPI_ENTRUST20141120\IceTradeAPI_ENTRUST20141120\IceTradeAPI_C#\obj\Release\IceTradeAPI.pdb
+C:\Users\sway\Desktop\case 8257\IceTradeAPI_ENTRUST20141120\IceTradeAPI_ENTRUST20141120\IceTradeAPI_C#\bin\Release\IceTradeAPI.exe
+C:\Users\sway\Desktop\case 8257\IceTradeAPI_ENTRUST20141120\IceTradeAPI_ENTRUST20141120\IceTradeAPI_C#\bin\Release\IceTradeAPI.pdb
+C:\Users\sway\Desktop\case 8257\IceTradeAPI_ENTRUST20141120\IceTradeAPI_ENTRUST20141120\IceTradeAPI_C#\bin\Release\Interop.ICETRADEAPILib.dll
+C:\Users\sway\Desktop\case 8257\IceTradeAPI_ENTRUST20141120\IceTradeAPI_ENTRUST20141120\IceTradeAPI_C#\bin\Release\AxInterop.ICETRADEAPILib.dll
+C:\Users\sway\Desktop\case 8257\IceTradeAPI_ENTRUST20141120\IceTradeAPI_ENTRUST20141120\IceTradeAPI_C#\obj\Release\ResolveAssemblyReference.cache
+C:\Users\sway\Desktop\case 8257\IceTradeAPI_ENTRUST20141120\IceTradeAPI_ENTRUST20141120\IceTradeAPI_C#\obj\Release\IceGlobalTradeAPI.Form1.resources
+C:\Users\sway\Desktop\case 8257\IceTradeAPI_ENTRUST20141120\IceTradeAPI_ENTRUST20141120\IceTradeAPI_C#\obj\Release\IceTradeAPI.Properties.Resources.resources
+C:\Users\sway\Desktop\case 8257\IceTradeAPI_ENTRUST20141120\IceTradeAPI_ENTRUST20141120\IceTradeAPI_C#\obj\Release\IceTradeAPI.csproj.GenerateResource.Cache
+E:\Project.Ice\台灣\IceTradeAPI\IceTradeAPI_20141203\IceTradeAPI_C#\obj\Release\Interop.ICETRADEAPILib.dll
+E:\Project.Ice\台灣\IceTradeAPI\IceTradeAPI_20141203\IceTradeAPI_C#\obj\Release\AxInterop.ICETRADEAPILib.dll
+E:\Project.Ice\台灣\IceTradeAPI\IceTradeAPI_20141203\IceTradeAPI_C#\obj\Release\IceTradeAPI.csproj.ResolveComReference.cache
+E:\Project.Ice\台灣\IceTradeAPI\IceTradeAPI_20141203\IceTradeAPI_C#\obj\Release\IceTradeAPI.exe
+E:\Project.Ice\台灣\IceTradeAPI\IceTradeAPI_20141203\IceTradeAPI_C#\obj\Release\IceTradeAPI.pdb
+E:\Project.Ice\台灣\IceTradeAPI\IceTradeAPI_20141203\IceTradeAPI_C#\bin\Release\IceTradeAPI.exe
+E:\Project.Ice\台灣\IceTradeAPI\IceTradeAPI_20141203\IceTradeAPI_C#\bin\Release\IceTradeAPI.pdb
+E:\Project.Ice\台灣\IceTradeAPI\IceTradeAPI_20141203\IceTradeAPI_C#\bin\Release\Interop.ICETRADEAPILib.dll
+E:\Project.Ice\台灣\IceTradeAPI\IceTradeAPI_20141203\IceTradeAPI_C#\bin\Release\AxInterop.ICETRADEAPILib.dll
+E:\Project.Ice\台灣\IceTradeAPI\IceTradeAPI_20141203\IceTradeAPI_C#\obj\Release\IceGlobalTradeAPI.Form1.resources
+E:\Project.Ice\台灣\IceTradeAPI\IceTradeAPI_20141203\IceTradeAPI_C#\obj\Release\IceTradeAPI.Properties.Resources.resources
+E:\Project.Ice\台灣\IceTradeAPI\IceTradeAPI_20141203\IceTradeAPI_C#\obj\Release\IceTradeAPI.csproj.GenerateResource.Cache
+E:\Project.Ice\台灣\IceTradeAPI\IceTradeAPI_20150715\IceTradeAPI_C#\obj\Release\Interop.ICETRADEAPILib.dll
+E:\Project.Ice\台灣\IceTradeAPI\IceTradeAPI_20150715\IceTradeAPI_C#\obj\Release\AxInterop.ICETRADEAPILib.dll
+E:\Project.Ice\台灣\IceTradeAPI\IceTradeAPI_20150715\IceTradeAPI_C#\obj\Release\IceTradeAPI.csproj.ResolveComReference.cache
+E:\Project.Ice\台灣\IceTradeAPI\IceTradeAPI_20150715\IceTradeAPI_C#\obj\Release\IceTradeAPI.exe
+E:\Project.Ice\台灣\IceTradeAPI\IceTradeAPI_20150715\IceTradeAPI_C#\obj\Release\IceTradeAPI.pdb
+E:\Project.Ice\台灣\IceTradeAPI\IceTradeAPI_20150715\IceTradeAPI_C#\bin\Release\IceTradeAPI.exe
+E:\Project.Ice\台灣\IceTradeAPI\IceTradeAPI_20150715\IceTradeAPI_C#\bin\Release\IceTradeAPI.pdb
+E:\Project.Ice\台灣\IceTradeAPI\IceTradeAPI_20150715\IceTradeAPI_C#\bin\Release\Interop.ICETRADEAPILib.dll
+E:\Project.Ice\台灣\IceTradeAPI\IceTradeAPI_20150715\IceTradeAPI_C#\bin\Release\AxInterop.ICETRADEAPILib.dll
+E:\Project.Ice\台灣\IceTradeAPI\IceTradeAPI_20150715\IceTradeAPI_C#\obj\Release\IceGlobalTradeAPI.Form1.resources
+E:\Project.Ice\台灣\IceTradeAPI\IceTradeAPI_20150715\IceTradeAPI_C#\obj\Release\IceTradeAPI.Properties.Resources.resources
+E:\Project.Ice\台灣\IceTradeAPI\IceTradeAPI_20150715\IceTradeAPI_C#\obj\Release\IceTradeAPI.csproj.GenerateResource.Cache
+E:\API\fubon\IceTradeAPI_C#\obj\Release\Interop.ICETRADEAPILib.dll
+E:\API\fubon\IceTradeAPI_C#\obj\Release\AxInterop.ICETRADEAPILib.dll
+E:\API\fubon\IceTradeAPI_C#\obj\Release\IceTradeAPI.csproj.ResolveComReference.cache
+E:\API\fubon\IceTradeAPI_C#\obj\Release\IceTradeAPI.exe
+E:\API\fubon\IceTradeAPI_C#\obj\Release\IceTradeAPI.pdb
+E:\API\fubon\IceTradeAPI_C#\bin\Release\IceTradeAPI.exe
+E:\API\fubon\IceTradeAPI_C#\bin\Release\IceTradeAPI.pdb
+E:\API\fubon\IceTradeAPI_C#\bin\Release\Interop.ICETRADEAPILib.dll
+E:\API\fubon\IceTradeAPI_C#\bin\Release\AxInterop.ICETRADEAPILib.dll
+E:\API\fubon\IceTradeAPI_C#\obj\Release\IceGlobalTradeAPI.Form1.resources
+E:\API\fubon\IceTradeAPI_C#\obj\Release\IceTradeAPI.Properties.Resources.resources
+E:\API\fubon\IceTradeAPI_C#\obj\Release\IceTradeAPI.csproj.GenerateResource.Cache
+E:\API\IceTradeAPI_20150803\IceTradeAPI_C#\obj\Release\Interop.ICETRADEAPILib.dll
+E:\API\IceTradeAPI_20150803\IceTradeAPI_C#\obj\Release\AxInterop.ICETRADEAPILib.dll
+E:\API\IceTradeAPI_20150803\IceTradeAPI_C#\obj\Release\IceTradeAPI.csproj.ResolveComReference.cache
+E:\API\IceTradeAPI_20150803\IceTradeAPI_C#\obj\Release\IceTradeAPI.exe
+E:\API\IceTradeAPI_20150803\IceTradeAPI_C#\obj\Release\IceTradeAPI.pdb
+E:\case 9047\IceTradeAPI_ENTRUST20150512\IceTradeAPI_ENTRUST20150512\IceTradeAPI_C#\obj\Release\Interop.ICETRADEAPILib.dll
+E:\case 9047\IceTradeAPI_ENTRUST20150512\IceTradeAPI_ENTRUST20150512\IceTradeAPI_C#\obj\Release\AxInterop.ICETRADEAPILib.dll
+E:\case 9047\IceTradeAPI_ENTRUST20150512\IceTradeAPI_ENTRUST20150512\IceTradeAPI_C#\obj\Release\IceTradeAPI.csproj.ResolveComReference.cache
+E:\case 9047\IceTradeAPI_ENTRUST20150512\IceTradeAPI_ENTRUST20150512\IceTradeAPI_C#\obj\Release\IceTradeAPI.exe
+E:\case 9047\IceTradeAPI_ENTRUST20150512\IceTradeAPI_ENTRUST20150512\IceTradeAPI_C#\obj\Release\IceTradeAPI.pdb
+E:\case 9047\IceTradeAPI_ENTRUST20150512\IceTradeAPI_ENTRUST20150512\IceTradeAPI_C#\bin\Release\IceTradeAPI.exe
+E:\case 9047\IceTradeAPI_ENTRUST20150512\IceTradeAPI_ENTRUST20150512\IceTradeAPI_C#\bin\Release\IceTradeAPI.pdb
+E:\case 9047\IceTradeAPI_ENTRUST20150512\IceTradeAPI_ENTRUST20150512\IceTradeAPI_C#\bin\Release\Interop.ICETRADEAPILib.dll
+E:\case 9047\IceTradeAPI_ENTRUST20150512\IceTradeAPI_ENTRUST20150512\IceTradeAPI_C#\bin\Release\AxInterop.ICETRADEAPILib.dll
+E:\case 9047\IceTradeAPI_ENTRUST20150512\IceTradeAPI_ENTRUST20150512\IceTradeAPI_C#\obj\Release\IceGlobalTradeAPI.Form1.resources
+E:\case 9047\IceTradeAPI_ENTRUST20150512\IceTradeAPI_ENTRUST20150512\IceTradeAPI_C#\obj\Release\IceTradeAPI.Properties.Resources.resources
+E:\case 9047\IceTradeAPI_ENTRUST20150512\IceTradeAPI_ENTRUST20150512\IceTradeAPI_C#\obj\Release\IceTradeAPI.csproj.GenerateResource.Cache
+D:\case\IceTradeAPI_ENTRUST20150512\IceTradeAPI_C#\obj\Release\IceTradeAPI.csproj.ResolveComReference.cache
+D:\case\IceTradeAPI_ENTRUST20150512\IceTradeAPI_C#\obj\Release\IceTradeAPI.exe
+D:\case\IceTradeAPI_ENTRUST20150512\IceTradeAPI_C#\obj\Release\IceTradeAPI.pdb
+D:\case\IceTradeAPI_ENTRUST20150512\IceTradeAPI_C#\bin\Release\IceTradeAPI.exe.config
+D:\case\IceTradeAPI_ENTRUST20150512\IceTradeAPI_C#\obj\Release\IceGlobalTradeAPI.Form1.resources
+D:\case\IceTradeAPI_ENTRUST20150512\IceTradeAPI_C#\obj\Release\IceTradeAPI.Properties.Resources.resources
+D:\case\IceTradeAPI_ENTRUST20150512\IceTradeAPI_C#\obj\Release\IceTradeAPI.csproj.GenerateResource.Cache
+C:\case\IceTradeAPI_ENTRUST20150512\IceTradeAPI_C#\bin\Release\IceTradeAPI.exe.config
+C:\case\IceTradeAPI_ENTRUST20150512\IceTradeAPI_C#\bin\Release\IceTradeAPI.exe
+C:\case\IceTradeAPI_ENTRUST20150512\IceTradeAPI_C#\bin\Release\IceTradeAPI.pdb
+C:\case\IceTradeAPI_ENTRUST20150512\IceTradeAPI_C#\bin\Release\Interop.ICETRADEAPILib.dll
+C:\case\IceTradeAPI_ENTRUST20150512\IceTradeAPI_C#\bin\Release\AxInterop.ICETRADEAPILib.dll
+C:\case\IceTradeAPI_ENTRUST20150512\IceTradeAPI_C#\obj\Release\Interop.ICETRADEAPILib.dll
+C:\case\IceTradeAPI_ENTRUST20150512\IceTradeAPI_C#\obj\Release\AxInterop.ICETRADEAPILib.dll
+C:\case\IceTradeAPI_ENTRUST20150512\IceTradeAPI_C#\obj\Release\IceTradeAPI.csproj.ResolveComReference.cache
+C:\case\IceTradeAPI_ENTRUST20150512\IceTradeAPI_C#\obj\Release\IceGlobalTradeAPI.Form1.resources
+C:\case\IceTradeAPI_ENTRUST20150512\IceTradeAPI_C#\obj\Release\IceTradeAPI.Properties.Resources.resources
+C:\case\IceTradeAPI_ENTRUST20150512\IceTradeAPI_C#\obj\Release\IceTradeAPI.csproj.GenerateResource.Cache
+C:\case\IceTradeAPI_ENTRUST20150512\IceTradeAPI_C#\obj\Release\IceTradeAPI.exe
+C:\case\IceTradeAPI_ENTRUST20150512\IceTradeAPI_C#\obj\Release\IceTradeAPI.pdb

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="IceTradeAPI">
+</Property><Property Name="Solution File" Value="E:\Project.Ice\台灣\IceTradeAPI\IceTradeAPI_20141203\IceTradeAPI_C#\IceTradeAPI.sln">
+</Property><Property Name="Date" Value="2015年7月15日">
+</Property><Property Name="Time" Value="上午 09:12">
+</Property></Properties><Event ErrorLevel="0" Project="IceTradeAPI" Source="IceTradeAPI.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="IceTradeAPI" Source="IceTradeAPI.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="IceTradeAPI.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="IceTradeAPI.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="IceTradeAPI" Source="IceTradeAPI.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

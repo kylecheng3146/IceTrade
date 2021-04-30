@@ -1,0 +1,21 @@
+ICEGLOBALTRADEAPI1.Login(LOGIN_TYPE_ROCID, Text1.Text, Text2.Text, Int(Text3.Text), "", 0, "ICE", "iRealII", Text4.Text, "", "", Text5.Text, ENCODE_TYPE_MIENCODE)
+  
+'nLoginType:               login方式 , 以身分字號, 帳號或營業員登入
+        'strLoginURL:              Login url
+        'strServerAddress:         登入ipush的server ip
+        'nServerPort:              登入ipush的server Port
+        'strProxyAddress
+        'nProxyPort
+        'strCompany:               登入ipush的Company Name
+        'strProduct:               登入ipush的Product Name
+        'strRocID:                 身分
+'strRocID:                 身分證字號 , 以身分證字號登入時採用
+        'strBranchID:              分公司號 , 以帳號登入時採用
+        'strCustID:                帳號 , 以帳號登入時採用
+        'strPassword
+        'nEncodeType:              密碼加密方式
+
+0,不加密
+1,MD5
+2,目前方式
+

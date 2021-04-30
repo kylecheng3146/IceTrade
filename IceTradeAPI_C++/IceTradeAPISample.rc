@@ -1,0 +1,269 @@
+//Microsoft Developer Studio generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Chinese (Taiwan) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHT)
+#ifdef _WIN32
+LANGUAGE LANG_CHINESE, SUBLANG_CHINESE_TRADITIONAL
+#pragma code_page(950)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#define _AFX_NO_SPLITTER_RESOURCES\r\n"
+    "#define _AFX_NO_OLE_RESOURCES\r\n"
+    "#define _AFX_NO_TRACKER_RESOURCES\r\n"
+    "#define _AFX_NO_PROPERTY_RESOURCES\r\n"
+    "\r\n"
+    "#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHT)\r\n"
+    "#ifdef _WIN32\r\n"
+    "LANGUAGE 4, 1\r\n"
+    "#pragma code_page(950)\r\n"
+    "#endif //_WIN32\r\n"
+    "#include ""res\\IceTradeAPISample.rc2""  // non-Microsoft Visual C++ edited resources\r\n"
+    "#include ""l.cht\\afxres.rc""          // Standard components\r\n"
+    "#endif\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDR_MAINFRAME           ICON    DISCARDABLE     "res\\IceTradeAPISample.ico"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_ABOUTBOX DIALOG DISCARDABLE  0, 0, 235, 55
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "關於 IceTradeAPISample"
+FONT 9, "新細明體"
+BEGIN
+    ICON            IDR_MAINFRAME,IDC_STATIC,11,17,20,20
+    LTEXT           "IceTradeAPISample Version 1.0",IDC_STATIC,40,10,119,8,
+                    SS_NOPREFIX
+    LTEXT           "Copyright (C) 2012",IDC_STATIC,40,25,119,8
+    DEFPUSHBUTTON   "確定",IDOK,178,7,50,14,WS_GROUP
+END
+
+IDD_ICETRADEAPISAMPLE_DIALOG DIALOGEX 0, 0, 447, 477
+STYLE DS_MODALFRAME | WS_POPUP | WS_VISIBLE | WS_CAPTION | WS_SYSMENU
+EXSTYLE WS_EX_APPWINDOW
+CAPTION "IceTradeAPISample"
+FONT 9, "新細明體"
+BEGIN
+    GROUPBOX        "登入資訊",IDC_STATIC_LOGIN_DATA,10,11,244,147
+    LTEXT           "LoginUrl",IDC_STATIC_LOGIN_URL,16,29,40,12
+    LTEXT           "Server Addr",IDC_STATIC_SERVER_ADDR,16,51,40,12
+    LTEXT           "登入ID",IDC_STATIC_LOGIN_ID,16,73,40,12
+    LTEXT           "登入密碼",IDC_STATIC_LOGIN_PASSWARD,16,95,40,12
+    LTEXT           "CAPath",IDC_STATIC_CA_PATH,16,117,40,12
+    EDITTEXT        IDC_EDIT_LOGIN_URL,65,25,180,18,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT_SERVER_ADDR,65,47,130,18,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT_SERVER_PORT,200,47,45,18,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT_LOGIN_ID,65,69,180,18,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT_LONG_PWD,65,91,100,18,ES_AUTOHSCROLL
+    LTEXT           "編碼方式",IDC_STATIC_ENCODING,168,91,34,12
+    EDITTEXT        IDC_EDIT_ENCODE_TYPE,205,91,40,18,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT_CAPATH,65,113,100,18,ES_AUTOHSCROLL
+    LTEXT           "CAPwd",IDC_STATIC_CA_PWD,168,113,34,12
+    EDITTEXT        IDC_EDIT_CAPWD,205,113,40,18,ES_AUTOHSCROLL
+    CONTROL         "NeedCa",IDC_CHECK_NEEDCA,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,16,139,45,10
+    CONTROL         "是否回補",IDC_CHECK_RELOADFLAG,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,64,139,45,10
+    PUSHBUTTON      "連線",IDC_BUTTON_CONNNECT,134,139,50,14
+    PUSHBUTTON      "離線",IDC_BUTTON_DISCONNECT,190,139,50,14
+    GROUPBOX        "下單資訊",IDC_STATIC_ORDER_TYPE,10,163,427,148
+    LTEXT           "ID",IDC_STATIC_SYMBOL_ID,16,181,50,12
+    EDITTEXT        IDC_EDIT_SYMBOL_ID,69,178,60,18,ES_AUTOHSCROLL
+    LTEXT           "ODQTY",IDC_STATIC_ORDER_ODQTY,132,181,50,12
+    EDITTEXT        IDC_EDIT_ODQTY,185,178,60,18,ES_AUTOHSCROLL
+    LTEXT           "MARKETTYPE",IDC_STATIC_ORDER_MARKET_TYPE,248,181,50,12
+    EDITTEXT        IDC_EDIT_MARKET_TYPE,301,178,60,18,ES_AUTOHSCROLL
+    LTEXT           "BS",IDC_STATIC_ORDER_BS,16,203,50,12
+    EDITTEXT        IDC_EDIT_ORDER_BS,69,199,60,18,ES_AUTOHSCROLL
+    LTEXT           "ODKEY",IDC_STATIC_ORDER_ODKEY,132,203,50,12
+    EDITTEXT        IDC_EDIT_ORDER_KEY,185,199,60,18,ES_AUTOHSCROLL
+    LTEXT           "EXCHANGE",IDC_STATIC_ORDER_EXCHANGE,248,203,50,12
+    EDITTEXT        IDC_EDIT_EXCHANGE,301,199,60,18,ES_AUTOHSCROLL
+    LTEXT           "ODTYPE",IDC_STATIC_ORDER_ODTYPE,16,225,50,12
+    EDITTEXT        IDC_EDIT_ORDER_ODTYPE,69,221,60,18,ES_AUTOHSCROLL
+    LTEXT           "OPENCLOSE",IDC_STATIC_ORDER_OPENCLOSE,132,225,50,12
+    EDITTEXT        IDC_EDIT_ORDER_OPENCLOSE,185,221,60,18,ES_AUTOHSCROLL
+    LTEXT           "STOPPRICE",IDC_STATIC_ORDER_STOPPRICE,248,225,50,12
+    EDITTEXT        IDC_EDIT_ORDER_STOPPRICE,301,221,60,18,ES_AUTOHSCROLL
+    LTEXT           "TRADETYPE",IDC_STATIC_ORDER_TRADE_TYPE,16,247,50,12
+    EDITTEXT        IDC_EDIT_ORDER_TRADETYPE,69,243,60,18,ES_AUTOHSCROLL
+    LTEXT           "MTH",IDC_STATIC_ORDER_MTH,132,247,50,12
+    EDITTEXT        IDC_EDIT_ORDER_MTH,185,243,60,18,ES_AUTOHSCROLL
+    LTEXT           "DAYTRADE",IDC_STATIC_ORDER_DAY_TRADE,248,247,50,12
+    EDITTEXT        IDC_EDIT_ORDER_DAYTRADE,301,243,60,18,ES_AUTOHSCROLL
+    LTEXT           "PRICEFLAG",IDC_STATIC_ORDER_PRICEFLAG,16,269,50,12
+    EDITTEXT        IDC_EDIT_ORDER_PRICEFLAG,69,265,60,18,ES_AUTOHSCROLL
+    LTEXT           "CP",IDC_STATIC_ORDER_CP,132,269,50,12
+    EDITTEXT        IDC_EDIT_ORDER_CP,185,265,60,18,ES_AUTOHSCROLL
+    LTEXT           "CATYPE",IDC_STATIC_ORDER_CATYPE,248,269,50,12
+    EDITTEXT        IDC_EDIT_ORDER_CATYPE,301,265,60,18,ES_AUTOHSCROLL
+    LTEXT           "ODPRICE",IDC_STATIC_ORDER_ODPRICE,16,291,50,12
+    EDITTEXT        IDC_EDIT_ORDER_ODPRICE,69,287,60,18,ES_AUTOHSCROLL
+    LTEXT           "STRIKE",IDC_STATIC_ORDER_STRIKE,132,291,50,12
+    EDITTEXT        IDC_EDIT_ORDER_STRIKE,185,287,60,18,ES_AUTOHSCROLL
+    LTEXT           "ORDNO",IDC_STATIC_ORDER_ORDNO,248,291,50,12
+    EDITTEXT        IDC_EDIT_ORDER_ORDNO,301,287,60,18,ES_AUTOHSCROLL
+    PUSHBUTTON      "證券下單",IDC_BUTTON_STKORDER,371,180,55,14
+    PUSHBUTTON      "選擇權下單",IDC_BUTTON_OPTORDER,371,202,55,14
+    PUSHBUTTON      "期貨下單",IDC_BUTTON_FUTORDER,371,224,55,14
+    PUSHBUTTON      "國外期貨下單",IDC_BUTTON_OBFUTORDER,371,246,55,14
+    PUSHBUTTON      "刪單",IDC_BUTTON_REDUCEORDER,371,268,55,14
+    LISTBOX         IDC_LIST,258,17,174,141,LBS_MULTIPLESEL | 
+                    LBS_NOINTEGRALHEIGHT | WS_VSCROLL | WS_TABSTOP
+END
+
+
+#ifndef _MAC
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 1,0,0,1
+ PRODUCTVERSION 1,0,0,1
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x4L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040404B0"
+        BEGIN
+            VALUE "CompanyName", "\0"
+            VALUE "FileDescription", "IceTradeAPISample MFC Application\0"
+            VALUE "FileVersion", "1, 0, 0, 1\0"
+            VALUE "InternalName", "IceTradeAPISample\0"
+            VALUE "LegalCopyright", "Copyright (C) 2012\0"
+            VALUE "LegalTrademarks", "\0"
+            VALUE "OriginalFilename", "IceTradeAPISample.EXE\0"
+            VALUE "ProductName", "IceTradeAPISample Application\0"
+            VALUE "ProductVersion", "1, 0, 0, 1\0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x404, 1200
+    END
+END
+
+#endif    // !_MAC
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO DISCARDABLE 
+BEGIN
+    IDD_ABOUTBOX, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 228
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 48
+    END
+
+    IDD_ICETRADEAPISAMPLE_DIALOG, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 440
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 470
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_ABOUTBOX            "關於 IceTradeAPISample(&A)..."
+END
+
+#endif    // Chinese (Taiwan) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+#define _AFX_NO_SPLITTER_RESOURCES
+#define _AFX_NO_OLE_RESOURCES
+#define _AFX_NO_TRACKER_RESOURCES
+#define _AFX_NO_PROPERTY_RESOURCES
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHT)
+#ifdef _WIN32
+LANGUAGE 4, 1
+#pragma code_page(950)
+#endif //_WIN32
+#include "res\IceTradeAPISample.rc2"  // non-Microsoft Visual C++ edited resources
+#include "l.cht\afxres.rc"          // Standard components
+#endif
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

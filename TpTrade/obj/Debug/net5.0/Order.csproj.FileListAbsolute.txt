@@ -1,0 +1,16 @@
+/Users/kyle/Downloads/IceTradeAPI_ENTRUST20180116v3/TpTrade/obj/Debug/net5.0/Order.csprojAssemblyReference.cache
+/Users/kyle/Downloads/IceTradeAPI_ENTRUST20180116v3/TpTrade/obj/Debug/net5.0/Order.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kyle/Downloads/IceTradeAPI_ENTRUST20180116v3/TpTrade/obj/Debug/net5.0/Order.AssemblyInfoInputs.cache
+/Users/kyle/Downloads/IceTradeAPI_ENTRUST20180116v3/TpTrade/obj/Debug/net5.0/Order.AssemblyInfo.cs
+/Users/kyle/Downloads/IceTradeAPI_ENTRUST20180116v3/TpTrade/obj/Debug/net5.0/Order.csproj.CoreCompileInputs.cache
+/Users/kyle/Downloads/IceTradeAPI_ENTRUST20180116v3/TpTrade/bin/Debug/net5.0/Order.deps.json
+/Users/kyle/Downloads/IceTradeAPI_ENTRUST20180116v3/TpTrade/bin/Debug/net5.0/Order.dll
+/Users/kyle/Downloads/IceTradeAPI_ENTRUST20180116v3/TpTrade/bin/Debug/net5.0/ref/Order.dll
+/Users/kyle/Downloads/IceTradeAPI_ENTRUST20180116v3/TpTrade/bin/Debug/net5.0/Order.pdb
+/Users/kyle/Downloads/IceTradeAPI_ENTRUST20180116v3/TpTrade/bin/Debug/net5.0/AxICETRADEAPILib.dll
+/Users/kyle/Downloads/IceTradeAPI_ENTRUST20180116v3/TpTrade/bin/Debug/net5.0/ICETRADEAPILib.dll
+/Users/kyle/Downloads/IceTradeAPI_ENTRUST20180116v3/TpTrade/bin/Debug/net5.0/System.Windows.Forms.dll
+/Users/kyle/Downloads/IceTradeAPI_ENTRUST20180116v3/TpTrade/obj/Debug/net5.0/Order.csproj.CopyComplete
+/Users/kyle/Downloads/IceTradeAPI_ENTRUST20180116v3/TpTrade/obj/Debug/net5.0/Order.dll
+/Users/kyle/Downloads/IceTradeAPI_ENTRUST20180116v3/TpTrade/obj/Debug/net5.0/ref/Order.dll
+/Users/kyle/Downloads/IceTradeAPI_ENTRUST20180116v3/TpTrade/obj/Debug/net5.0/Order.pdb

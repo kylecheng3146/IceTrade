@@ -1,0 +1,5 @@
+/Users/kyle/Downloads/IceTradeAPI_ENTRUST20180116v3/TpTrade/obj/Debug/net5.0/Tp.csprojAssemblyReference.cache
+/Users/kyle/Downloads/IceTradeAPI_ENTRUST20180116v3/TpTrade/obj/Debug/net5.0/Tp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kyle/Downloads/IceTradeAPI_ENTRUST20180116v3/TpTrade/obj/Debug/net5.0/Tp.AssemblyInfoInputs.cache
+/Users/kyle/Downloads/IceTradeAPI_ENTRUST20180116v3/TpTrade/obj/Debug/net5.0/Tp.AssemblyInfo.cs
+/Users/kyle/Downloads/IceTradeAPI_ENTRUST20180116v3/TpTrade/obj/Debug/net5.0/Tp.csproj.CoreCompileInputs.cache
